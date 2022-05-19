@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;600;700&display=swap');
+*{
+    font-family: 'Nunito', sans-serif;
+    
+    
+    /*  */
+}
+
+.links{
+    text-decoration: none;
+    color: gray;
+}
+.links:hover{
+    color:rgb(8, 8, 102)
+}
+
+.img{
+opacity: 50%;
+
+}
+.checked{
+    color:rgb(10, 6, 49)
+}
+.box{
+    width:75%;
+    border:1px solid black;
+    margin:10px;
+    padding:20px;
+    border-radius: 20px;
+   
+}
